@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="name_tv">NAME:</string>
+    <string name="price_tv">PRICE:</string>
+    <string name="quantity_tv">QUANTITY:</string>
+    <string name="take_photo_text">TAKE PHOTO</string>
+    <string name="create_button_text">CREATE</string>
+    <string name="insert_menu_title">Insert item</string>
+    <string name="empty_view_title_text">It\'s a bit lonely in here</string>
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+    <string name="save_title">SAVE</string>
+    <string name="delete_title">DELETE</string>
+    <string name="delete_message">Delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="back_message">Discard your changes and quit editing?</string>
+    <string name="keep_editing_text">Keep editing</string>
+</resources>
